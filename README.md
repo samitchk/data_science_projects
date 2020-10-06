@@ -1,2 +1,2 @@
-# logistic_regression_breat_cancer
-Application of logistic regression is conducted on breast cancer dataset to predict malign and benign cancers.
+# data_science_projects
+Application of machine learning and predictive models to different datasets
